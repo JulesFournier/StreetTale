@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 8a24722680969f346acab95c1a864371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4518727934968231068
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_0
+  - first:
+      213: -1371022559021445223
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_1
+  - first:
+      213: 6578247616948317299
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_2
+  - first:
+      213: -9067383463028303158
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_3
+  - first:
+      213: 5037002000266001818
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_4
+  - first:
+      213: -6256453112329603942
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_5
+  - first:
+      213: -8881962164191562756
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_6
+  - first:
+      213: 4480851003332903652
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_7
+  - first:
+      213: -312670319732975391
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_8
+  - first:
+      213: 2428751234836944316
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_9
+  - first:
+      213: 4499338410174030916
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_10
+  - first:
+      213: -1058883385404722364
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_11
+  - first:
+      213: -1301480500377593765
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_12
+  - first:
+      213: 7529164950654378154
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_13
+  - first:
+      213: 3761136793178273927
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_14
+  - first:
+      213: 1799380347341498865
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_15
+  - first:
+      213: -6913553211527056535
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_16
+  - first:
+      213: -1820962551129465480
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_17
+  - first:
+      213: -2469766434202461678
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_18
+  - first:
+      213: 12679661912621527
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_19
+  - first:
+      213: 6325332995817727073
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_20
+  - first:
+      213: 2589090791576115940
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_21
+  - first:
+      213: -2476910824723665763
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_22
+  - first:
+      213: -4608742287223447139
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_23
+  - first:
+      213: 6574055941520003102
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_24
+  - first:
+      213: -7935917588295760266
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_25
+  - first:
+      213: 509912796242948138
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_26
+  - first:
+      213: 4687198803495499771
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_27
+  - first:
+      213: -2210440401987823619
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_28
+  - first:
+      213: 6832083236716526441
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_29
+  - first:
+      213: -481508769665763342
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_30
+  - first:
+      213: -471742178616839791
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_31
+  - first:
+      213: -4296881470760050649
+    second: PC Computer - CrossCode - Turret Projectile & Hit Effects_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b859762e04a41c0800000000000000
+      internalID: -4518727934968231068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fca7e1f3629fce0800000000000000
+      internalID: -1371022559021445223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca3c4ca51aa4b50800000000000000
+      internalID: 6578247616948317299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca52fb08ce2a2280800000000000000
+      internalID: -9067383463028303158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d79cec1a607e540800000000000000
+      internalID: 5037002000266001818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f4bdda0d9c29a0800000000000000
+      internalID: -6256453112329603942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 36
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f6e6687eecb480800000000000000
+      internalID: -8881962164191562756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e24c193f3e2f2e30800000000000000
+      internalID: 4480851003332903652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81284300c29abf0800000000000000
+      internalID: -312670319732975391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55f384168a4b120800000000000000
+      internalID: 2428751234836944316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a1be027cd07e30800000000000000
+      internalID: 4499338410174030916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437362db271e41f0800000000000000
+      internalID: -1058883385404722364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5855e4616630fde0800000000000000
+      internalID: -1301480500377593765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06313a1a7fc7860800000000000000
+      internalID: 7529164950654378154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 38
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fa0d6cfd323430800000000000000
+      internalID: 3761136793178273927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9eb1374eea8f810800000000000000
+      internalID: 1799380347341498865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633b23dbff1e00a0800000000000000
+      internalID: -6913553211527056535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d93a62534aab6e0800000000000000
+      internalID: -1820962551129465480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21add237380a9bdd0800000000000000
+      internalID: -2469766434202461678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d18c28d51c0d2000800000000000000
+      internalID: 12679661912621527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 8
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e5cdb8d818c750800000000000000
+      internalID: 6325332995817727073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea112b7b5c4ee320800000000000000
+      internalID: 2589090791576115940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca6086abe30add0800000000000000
+      internalID: -2476910824723665763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a9b4de457a00c0800000000000000
+      internalID: -4608742287223447139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1098d74c0dbb3b50800000000000000
+      internalID: 6574055941520003102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764bdeeff4fdd190800000000000000
+      internalID: -7935917588295760266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20bc7e8cf2931700800000000000000
+      internalID: 509912796242948138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf73cf95a764c0140800000000000000
+      internalID: 4687198803495499771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df718527a20f251e0800000000000000
+      internalID: -2210440401987823619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 12
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb360818f60de50800000000000000
+      internalID: 6832083236716526441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f736db33565159f0800000000000000
+      internalID: -481508769665763342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19179f9ecf80479f0800000000000000
+      internalID: -471742178616839791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Turret Projectile & Hit Effects_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a36571196e54c0800000000000000
+      internalID: -4296881470760050649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

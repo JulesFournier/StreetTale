@@ -1,0 +1,1896 @@
+fileFormatVersion: 2
+guid: 22d5962d782bcdb48ab3c5b2a6583a0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5307964597837182271
+    second: KrisSpriteSheet_0
+  - first:
+      213: -6756513095868198379
+    second: KrisSpriteSheet_1
+  - first:
+      213: -257004297700085934
+    second: KrisSpriteSheet_2
+  - first:
+      213: -4862385929596138733
+    second: KrisSpriteSheet_3
+  - first:
+      213: 5616353937903669071
+    second: KrisSpriteSheet_4
+  - first:
+      213: 5559695181075040850
+    second: KrisSpriteSheet_5
+  - first:
+      213: 4204032867765713591
+    second: KrisSpriteSheet_6
+  - first:
+      213: 9201491963908829803
+    second: KrisSpriteSheet_7
+  - first:
+      213: 2125430872094131090
+    second: KrisSpriteSheet_8
+  - first:
+      213: -8122677845376513172
+    second: KrisSpriteSheet_9
+  - first:
+      213: -1778745209740575058
+    second: KrisSpriteSheet_10
+  - first:
+      213: 372619469185920890
+    second: KrisSpriteSheet_11
+  - first:
+      213: 5882127529153857549
+    second: KrisSpriteSheet_12
+  - first:
+      213: 6866348035465630366
+    second: KrisSpriteSheet_13
+  - first:
+      213: 7923235816835508598
+    second: KrisSpriteSheet_14
+  - first:
+      213: 7387812615100757484
+    second: KrisSpriteSheet_15
+  - first:
+      213: 1238880908393162024
+    second: KrisSpriteSheet_16
+  - first:
+      213: -3522465374590746667
+    second: KrisSpriteSheet_17
+  - first:
+      213: -1991778325165900364
+    second: KrisSpriteSheet_18
+  - first:
+      213: -8997343114073311087
+    second: KrisSpriteSheet_19
+  - first:
+      213: -3069700402332545334
+    second: KrisSpriteSheet_20
+  - first:
+      213: 1456392548284402670
+    second: KrisSpriteSheet_21
+  - first:
+      213: 8529480109233479476
+    second: KrisSpriteSheet_22
+  - first:
+      213: 6751907603061274087
+    second: KrisSpriteSheet_23
+  - first:
+      213: 4580137928435159721
+    second: KrisSpriteSheet_24
+  - first:
+      213: 7255383713895888806
+    second: KrisSpriteSheet_25
+  - first:
+      213: 4104528689290902018
+    second: KrisSpriteSheet_26
+  - first:
+      213: 5859518917671752214
+    second: KrisSpriteSheet_27
+  - first:
+      213: -8834355818589454879
+    second: KrisSpriteSheet_28
+  - first:
+      213: 1906021234400106210
+    second: KrisSpriteSheet_29
+  - first:
+      213: 6671566207783367828
+    second: KrisSpriteSheet_30
+  - first:
+      213: -8088103830839039813
+    second: KrisSpriteSheet_31
+  - first:
+      213: 1185068183875995155
+    second: KrisSpriteSheet_32
+  - first:
+      213: 2384597579292529072
+    second: KrisSpriteSheet_34
+  - first:
+      213: -1492217235264331523
+    second: KrisSpriteSheet_35
+  - first:
+      213: 6180246225892098723
+    second: KrisSpriteSheet_38
+  - first:
+      213: 2573773731743253358
+    second: KrisSpriteSheet_39
+  - first:
+      213: 2076299215490617742
+    second: KrisSpriteSheet_40
+  - first:
+      213: 2331860799943354960
+    second: KrisSpriteSheet_41
+  - first:
+      213: -7495265819603920266
+    second: KrisSpriteSheet_42
+  - first:
+      213: 3894766798894394465
+    second: KrisSpriteSheet_43
+  - first:
+      213: -5213642829539095127
+    second: KrisSpriteSheet_44
+  - first:
+      213: -1657538545514600362
+    second: KrisSpriteSheet_46
+  - first:
+      213: -6636627081489315674
+    second: KrisSpriteSheet_48
+  - first:
+      213: 4857650934871734671
+    second: KrisSpriteSheet_50
+  - first:
+      213: 2160791347982998153
+    second: KrisSpriteSheet_51
+  - first:
+      213: -2687609371616840163
+    second: KrisSpriteSheet_52
+  - first:
+      213: -5976238948429546941
+    second: KrisSpriteSheet_53
+  - first:
+      213: 6408618688145631248
+    second: KrisSpriteSheet_54
+  - first:
+      213: 7553212230722709441
+    second: KrisSpriteSheet_55
+  - first:
+      213: 4076766087435305242
+    second: KrisSpriteSheet_56
+  - first:
+      213: -4359601373658186064
+    second: KrisSpriteSheet_57
+  - first:
+      213: -5903813798239696495
+    second: KrisSpriteSheet_58
+  - first:
+      213: 3876221993312679591
+    second: KrisSpriteSheet_59
+  - first:
+      213: -5404395927286456057
+    second: KrisSpriteSheet_60
+  - first:
+      213: 3792844869697920998
+    second: KrisSpriteSheet_61
+  - first:
+      213: -4757571794606840745
+    second: KrisSpriteSheet_62
+  - first:
+      213: -2674737274232423458
+    second: KrisSpriteSheet_63
+  - first:
+      213: -805934040749854482
+    second: KrisSpriteSheet_64
+  - first:
+      213: -2783399624811273523
+    second: KrisSpriteSheet_65
+  - first:
+      213: -1056658091036097109
+    second: KrisSpriteSheet_66
+  - first:
+      213: -1529322270477251761
+    second: KrisSpriteSheet_67
+  - first:
+      213: -2129373023126494487
+    second: KrisSpriteSheet_68
+  - first:
+      213: -3519367542191786320
+    second: KrisSpriteSheet_69
+  - first:
+      213: -2972958458731547869
+    second: KrisSpriteSheet_70
+  - first:
+      213: -7397038816747878701
+    second: KrisSpriteSheet_71
+  - first:
+      213: 7860307214372597982
+    second: KrisSpriteSheet_72
+  - first:
+      213: 4331617149712627451
+    second: KrisSpriteSheet_73
+  - first:
+      213: 774914050572676243
+    second: KrisSpriteSheet_74
+  - first:
+      213: -6259513909598950900
+    second: KrisSpriteSheet_75
+  - first:
+      213: -2802345841404412139
+    second: KrisSpriteSheet_76
+  - first:
+      213: 5731600097944613642
+    second: KrisSpriteSheet_77
+  - first:
+      213: -7657597672684584732
+    second: KrisSpriteSheet_78
+  - first:
+      213: 8261561187188938337
+    second: KrisSpriteSheet_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KrisSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 667
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac09132525656b0800000000000000
+      internalID: -5307964597837182271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 665
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125088032b0c32a0800000000000000
+      internalID: -6756513095868198379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 626
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f66d1f3ffee6cf0800000000000000
+      internalID: -257004297700085934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 626
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b809152c5558cb0800000000000000
+      internalID: -4862385929596138733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 626
+        width: 49
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4d99562c41fd40800000000000000
+      internalID: 5616353937903669071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 579
+        width: 19
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25acd678f41082d40800000000000000
+      internalID: 5559695181075040850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 579
+        width: 25
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7203203, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bafd3b8e99b75a30800000000000000
+      internalID: 4204032867765713591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 579
+        width: 20
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6980072, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62b568803442bf70800000000000000
+      internalID: 9201491963908829803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 579
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7806214, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c1ddfd1c0f7d10800000000000000
+      internalID: 2125430872094131090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 579
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.499557, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc5611983764f80800000000000000
+      internalID: -8122677845376513172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 579
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5609093, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3c7be7a0a057e0800000000000000
+      internalID: -1778745209740575058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 579
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7074516, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa839de6fcb2500800000000000000
+      internalID: 372619469185920890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 579
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.62182903, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0803caa2d381a150800000000000000
+      internalID: 5882127529153857549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 579
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48591134, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e925126a82b2a4f50800000000000000
+      internalID: 6866348035465630366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 579
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.49839872, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e12e0ffcf4fd60800000000000000
+      internalID: 7923235816835508598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 532
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5001503, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5fa3e5e68c68660800000000000000
+      internalID: 7387812615100757484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 532
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5126674, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a9cf4f93613110800000000000000
+      internalID: 1238880908393162024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 532
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52774113, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb7e59760bd1fc0800000000000000
+      internalID: -3522465374590746667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 532
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.52764595, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf9298a28cb54e0800000000000000
+      internalID: -1991778325165900364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 532
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5261718, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1987a539b14032380800000000000000
+      internalID: -8997343114073311087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 532
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.513392, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace48108fbb3665d0800000000000000
+      internalID: -3069700402332545334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 481
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6712374, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb840e6e45263410800000000000000
+      internalID: 1456392548284402670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 481
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6443167, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f1f9dd7fcce5670800000000000000
+      internalID: 8529480109233479476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 481
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35460985, y: 0.1277875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f9bc113893bd50800000000000000
+      internalID: 6751907603061274087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 481
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3579912, y: 0.1277875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2dba6ed2bef8f30800000000000000
+      internalID: 4580137928435159721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5209266, y: 0.17537308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a73bef0c0d40b460800000000000000
+      internalID: 7255383713895888806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 481
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54455566, y: 0.15537673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a759f981736f830800000000000000
+      internalID: 4104528689290902018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 481
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5295121, y: 0.1574754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612918a1961315150800000000000000
+      internalID: 5859518917671752214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 481
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.52111655, y: 0.15747462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf19d7030166580800000000000000
+      internalID: -8834355818589454879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 434
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.46241915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e615c2d63c837a10800000000000000
+      internalID: 1906021234400106210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 434
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: 0.35946015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947d665e1a269c50800000000000000
+      internalID: 6671566207783367828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 434
+        width: 54
+        height: 37
+      alignment: 9
+      pivot: {x: 0.33276933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ec502b6841cf80800000000000000
+      internalID: -8088103830839039813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 434
+        width: 56
+        height: 37
+      alignment: 9
+      pivot: {x: 0.32177708, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316cb860c35327010800000000000000
+      internalID: 1185068183875995155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 434
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3821794, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1dcfd3ddac71120800000000000000
+      internalID: 2384597579292529072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 434
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5124578, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0aa54a4549a4be0800000000000000
+      internalID: -1492217235264331523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 394
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24fb6b235a4c550800000000000000
+      internalID: 6180246225892098723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 394
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c9c49291e7b320800000000000000
+      internalID: 2573773731743253358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 394
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819db2c22f70dc10800000000000000
+      internalID: 2076299215490617742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 394
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2846fa0f6c5020800000000000000
+      internalID: 2331860799943354960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 394
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a916dd2777bf790800000000000000
+      internalID: -7495265819603920266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 347
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce51ba4cdfc0630800000000000000
+      internalID: 3894766798894394465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 347
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad4f87387b65a7b0800000000000000
+      internalID: -5213642829539095127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 347
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a511997d3ff8e0800000000000000
+      internalID: -1657538545514600362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 347
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8871de4d6f5e3a0800000000000000
+      internalID: -6636627081489315674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 347
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89bfdfc9c7d96340800000000000000
+      internalID: 4857650934871734671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 347
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a934a584cacfd10800000000000000
+      internalID: 2160791347982998153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 347
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1674cd1481b3bad0800000000000000
+      internalID: -2687609371616840163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 347
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ab0020752201da0800000000000000
+      internalID: -5976238948429546941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 300
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5142601, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a9d71ebcffe850800000000000000
+      internalID: 6408618688145631248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 300
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5142601, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ec55518662d860800000000000000
+      internalID: 7553212230722709441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 253
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c0f92825939830800000000000000
+      internalID: 4076766087435305242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 253
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be7cc816a59f73c0800000000000000
+      internalID: -4359601373658186064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998fd751a0711ea0800000000000000
+      internalID: -5903813798239696495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a675f5ad5b1bc530800000000000000
+      internalID: 3876221993312679591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e580b98abff4b0800000000000000
+      internalID: -5404395927286456057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efd18a4054e2a430800000000000000
+      internalID: 3792844869697920998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 158
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754aa05d8a5b9fdb0800000000000000
+      internalID: -4757571794606840745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 158
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb31e5de9c61ead0800000000000000
+      internalID: -2674737274232423458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 158
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0b5bc824fb0d4f0800000000000000
+      internalID: -805934040749854482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22b2fc9c06f59d0800000000000000
+      internalID: -2783399624811273523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 158
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba540ca801ff551f0800000000000000
+      internalID: -1056658091036097109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0c196f71c6cae0800000000000000
+      internalID: -1529322270477251761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ee327482f272e0800000000000000
+      internalID: -2129373023126494487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b67e95edd1b82fc0800000000000000
+      internalID: -3519367542191786320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323305f780eedb6d0800000000000000
+      internalID: -2972958458731547869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d687f92360785990800000000000000
+      internalID: -7397038816747878701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 111
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed07e1a04cb651d60800000000000000
+      internalID: 7860307214372597982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67c9709defc1c30800000000000000
+      internalID: 4331617149712627451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 111
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce7db293c01ca00800000000000000
+      internalID: 774914050572676243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 111
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aecb7734db129a0800000000000000
+      internalID: -6259513909598950900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 61
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ffb410e411c19d0800000000000000
+      internalID: -2802345841404412139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033598fbebba8f40800000000000000
+      internalID: 5731600097944613642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e007c60d7fbab590800000000000000
+      internalID: -7657597672684584732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KrisSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661d8cc026f6a270800000000000000
+      internalID: 8261561187188938337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
